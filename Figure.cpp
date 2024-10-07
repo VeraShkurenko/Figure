@@ -4,6 +4,8 @@
 
 using namespace std;
 
+
+
 void Figure::SetDimension(const double value1)
 {
     SetDimension(value1, value1);
